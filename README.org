@@ -1,0 +1,10 @@
+* mnas-path
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mnasoft/mnas-path.git   |
+| commit  | 12bc4fd  |
+| systems | mnas-path |
+|---------+-------------------------------------------|
+
