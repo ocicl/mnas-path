@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/mnasoft/mnas-path.git   |
-| commit  | 12bc4fd  |
-| systems | mnas-path |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/mnasoft/mnas-path.git |
+| commit  | 1c3e9d6                                      |
+| systems | mnas-path                                    |
+|---------+----------------------------------------------|
