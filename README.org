@@ -4,6 +4,6 @@
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/mnasoft/mnas-path.git |
-| commit  | 1c3e9d6                                      |
+| commit  | a5bf8e5                                      |
 | systems | mnas-path                                    |
 |---------+----------------------------------------------|
