@@ -4,7 +4,7 @@
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/mnasoft/mnas-path.git |
-| commit  | 5ceee83                                      |
+| commit  | ec256dc                                      |
 | systems | mnas-path                                    |
 |---------+----------------------------------------------|
    
